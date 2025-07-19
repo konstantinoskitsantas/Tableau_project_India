@@ -38,7 +38,7 @@ This dataset contains **time-series data** related to the global spread of **COV
 - A **filled map** (or symbol map) displaying **total confirmed cases** across different countries..
 - Great for **geographic comparison** and visualizing COVID-19 spread.
   
-![Global Map](images/image1.png)
+![Global Map](Tableau_project_India/images_covid19/image1.png)
 ---
 
 ### 🥧 **Task 2: Total Confirmed Cases in India (Pie Chart)**
