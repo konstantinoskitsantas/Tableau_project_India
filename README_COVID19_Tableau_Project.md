@@ -1,13 +1,13 @@
 
 # 🦠 Tableau Project: COVID-19 Analysis & Forecasting
 
-This project leverages Tableau to explore and visualize global and Indian COVID-19 data through maps, charts, forecasts, and statistical plots. It provides insights into case distributions, recovery trends, and predictive modeling.
+This project leverages Tableau to explore and visualize global and Indian COVID-19 data through maps, charts, forecasts and statistical plots. It provides insights into case distributions, recovery trends and predictive modeling.
 
 ---
 
 ## 📁 About the Dataset
 
-This dataset contains **time-series data** related to the global spread of **COVID-19**, with a particular focus on **India**. Each record tracks confirmed cases, deaths, and recoveries by country or state over time.
+This dataset contains **time-series data** related to the global spread of **COVID-19**, with a particular focus on **India**. Each record tracks confirmed cases, deaths and recoveries by country or state over time.
 
 ### 🧾 Dataset Columns:
 - **SNo**: Serial number of the record  
@@ -35,8 +35,7 @@ This dataset contains **time-series data** related to the global spread of **COV
 
 ### 🗺️ **Task 1: Global Map of Confirmed Cases**
 
-- A **filled map** (or symbol map) displaying **total confirmed cases** across different countries.
-- Countries with higher case counts are shaded darker or marked with larger symbols.
+- A **filled map** (or symbol map) displaying **total confirmed cases** across different countries..
 - Great for **geographic comparison** and visualizing COVID-19 spread.
 
 ---
@@ -58,7 +57,7 @@ This dataset contains **time-series data** related to the global spread of **COV
 ### 📈 **Task 4: Forecasting COVID-19 Cases (Trendline)**
 
 - A **line chart** of confirmed cases over time with a **forecast trendline**.
-- Built using **Tableau’s forecasting tool (exponential smoothing)**.
+- Built using **Tableau’s forecasting tool for 2021 T1 and T2 (exponential smoothing)**.
 - 📌 *Important:* **Uncheck “Aggregate Measures”** to view daily data properly.
 
 ---
@@ -66,9 +65,6 @@ This dataset contains **time-series data** related to the global spread of **COV
 ### 📦 **Task 5: Box & Whisker Plot by Country**
 
 - A **box-and-whisker plot** visualizing the **distribution of confirmed cases** by country.
-- Setup:
-  - Columns: `Country/Region`
-  - Rows: `Confirmed`
 - Use this to spot **outliers**, **medians**, and **interquartile ranges**.
 - 📌 *Note:* Turn off **aggregate measures** for accurate distribution.
 
@@ -79,6 +75,8 @@ This dataset contains **time-series data** related to the global spread of **COV
 - A dedicated **forecasting sheet** projecting future confirmed cases and recoveries.
 - Uses Tableau’s **built-in forecasting engine** based on historical trends.
 - Helps in understanding potential future outbreak trajectories.
+
+### 🔮 **Task 7: CLear Dashboard**
 
 ---
 
