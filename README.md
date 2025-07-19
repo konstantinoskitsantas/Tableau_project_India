@@ -46,7 +46,6 @@ This dataset contains **time-series data** related to the global spread of **COV
 - A **pie chart** visualizing the **distribution of confirmed cases** across Indian states.
 - Clearly shows which states are most affected.
 
----
 ![Confirmed Cases](images_covid19/image2.png)
 ---
 
@@ -54,27 +53,27 @@ This dataset contains **time-series data** related to the global spread of **COV
 
 - A **bar or tree map** showing **total recovery counts** per Indian state.
 - Helps evaluate state-wise recovery performance.
----
 ![Total recovered cases](images_covid19/image3.png)
 ---
+
 ### 📈 **Task 4: Forecasting COVID-19 Cases (Trendline)**
 
 - A **line chart** of confirmed cases over time with a **forecast trendline**.
 - Built using **Tableau’s forecasting tool for 2021 T1 and T2 (exponential smoothing)**.
 - 📌 *Important:* **Uncheck “Aggregate Measures”** to view daily data properly.
 
----
 ![Forecasting COVID-19 Cases](images_covid19/image4.png)
 ---
+
 ### 📦 **Task 5: Box & Whisker Plot by region**
 
 - A **box-and-whisker plot** visualizing the **distribution of confirmed cases** by region.
 - Use this to spot **outliers**, **medians**, and **interquartile ranges**.
 - 📌 *Note:* Turn off **aggregate measures** for accurate distribution.
 
----
 ![Confirmed cases per region](images_covid19/image5.png)
 ---
+
 ### 🔮 **Task 6: Future Forecast Sheet**
 
 - A dedicated **forecasting sheet** projecting future confirmed cases and recoveries.
@@ -83,8 +82,9 @@ This dataset contains **time-series data** related to the global spread of **COV
 
 ![Future Forecast Sheet](images_covid19/image6.png)
 ---
+
 ### 🔮 **Task 7: CLear Dashboard**
----
+
 ![Dashboard](images_covid19/image7.png)
 ---
 
