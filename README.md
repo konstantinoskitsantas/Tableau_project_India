@@ -47,7 +47,7 @@ This dataset contains **time-series data** related to the global spread of **COV
 - Clearly shows which states are most affected.
 
 ---
-![Confirmed Cases](images_covid19/image 2.png)
+![Confirmed Cases](images_covid19/image2.png)
 ---
 
 ### 💚 **Task 3: Total Recovered Cases in India**
@@ -55,7 +55,7 @@ This dataset contains **time-series data** related to the global spread of **COV
 - A **bar or tree map** showing **total recovery counts** per Indian state.
 - Helps evaluate state-wise recovery performance.
 ---
-![Total recovered cases](images_covid19/image 3.png)
+![Total recovered cases](images_covid19/image3.png)
 ---
 ### 📈 **Task 4: Forecasting COVID-19 Cases (Trendline)**
 
@@ -64,7 +64,7 @@ This dataset contains **time-series data** related to the global spread of **COV
 - 📌 *Important:* **Uncheck “Aggregate Measures”** to view daily data properly.
 
 ---
-![Forecasting COVID-19 Cases](images_covid19/image 4.png)
+![Forecasting COVID-19 Cases](images_covid19/image4.png)
 ---
 ### 📦 **Task 5: Box & Whisker Plot by region**
 
@@ -73,7 +73,7 @@ This dataset contains **time-series data** related to the global spread of **COV
 - 📌 *Note:* Turn off **aggregate measures** for accurate distribution.
 
 ---
-![Confirmed cases per region](images_covid19/image 5.png)
+![Confirmed cases per region](images_covid19/image5.png)
 ---
 ### 🔮 **Task 6: Future Forecast Sheet**
 
@@ -81,11 +81,11 @@ This dataset contains **time-series data** related to the global spread of **COV
 - Uses Tableau’s **built-in forecasting engine** based on historical trends.
 - Helps in understanding potential future outbreak trajectories.
 
-![Future Forecast Sheet](images_covid19/image 6.png)
+![Future Forecast Sheet](images_covid19/image6.png)
 ---
 ### 🔮 **Task 7: CLear Dashboard**
 ---
-![Dashboard](images_covid19/image 7.png)
+![Dashboard](images_covid19/image7.png)
 ---
 
 ## 🛠️ Tools Used
