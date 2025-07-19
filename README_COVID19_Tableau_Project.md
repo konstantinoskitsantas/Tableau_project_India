@@ -13,7 +13,7 @@ This dataset contains **time-series data** related to the global spread of **COV
 - **SNo**: Serial number of the record  
 - **ObservationDate**: Date when the data was recorded  
 - **Province/State**: Specific state or region (especially within India)  
-- **Country/Region**: Country name  
+- **Country/Region**: Region name  
 - **Last Update**: Timestamp of the latest update  
 - **Confirmed**: Total confirmed COVID-19 cases  
 - **Deaths**: Total COVID-19-related deaths  
